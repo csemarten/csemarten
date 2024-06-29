@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... not sure yet ...
 - 📫 How to reach me ...
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: 
+- ⚡ Fun fact: GitHub totally confuses me right now.
 
 <!---
 csemarten/csemarten is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
