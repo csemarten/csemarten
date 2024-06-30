@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @csemarten
 - 👀 I’m interested in art, family, reading, my border collie ...
-- 🌱 I’m currently learning full stack development (HTML, CSS, Javascript, Node.js, JEST ... and more to come)
+- 🌱 I’m currently learning full stack development (HTML, CSS, Javascript, Node.js, JEST, GitHub ... and more to come)
 - 💞️ I’m looking to collaborate on ... not sure yet ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... csemarten@gmail.com
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: GitHub totally confuses me right now.
 
